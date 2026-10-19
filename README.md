@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/abdelrahman-gabr1">
+  <a href="linkedin.com/in/abdelrahman-gabr1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=flat-square" alt="AI & ML" />
@@ -123,10 +123,10 @@ A computer vision project exploring automated analysis of children's drawings us
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/abdelrahman-gabr1 target="_blank">
+  <a href="linkedin.com/in/abdelrahman-gabr1 target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gabrabdo908@gmail.com">
+  <a href="[mailto:gabrabdo908@gmail.com](https://mail.google.com/mail/u/0/?hl=ar#inbox)">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
