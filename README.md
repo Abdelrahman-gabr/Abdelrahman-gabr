@@ -4,13 +4,6 @@
   <strong>AI & Machine Learning Engineer </strong>
 </p>
 
-<p align="center">
-  <a href="linkedin.com/in/abdelrahman-gabr1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6C63FF?style=flat-square" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Location-Egypt-CE1126?style=flat-square" alt="Egypt" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+Real-World+AI+Solutions;Computer+Vision+%26+Deep+Learning;Machine+Learning+%26+MLOps;From+Research+to+Practical+AI+Applications" alt="Typing SVG" />
@@ -120,21 +113,13 @@ A computer vision project exploring automated analysis of children's drawings us
 ---
 
 
-## 🤝 Let's Connect
+<h2 align="left">🤝 Let's Connect</h2>
 
 <p align="left">
-  <a href="linkedin.com/in/abdelrahman-gabr1 target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahman-gabr1/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[mailto:gabrabdo908@gmail.com](https://mail.google.com/mail/u/0/?hl=ar#inbox)">
+  <a href="mailto:gabrabdo908@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <em>"The best way to predict the future is to build it."</em>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories and connect!
 </p>
